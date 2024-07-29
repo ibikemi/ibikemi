@@ -11,7 +11,7 @@ I'm Blessing, a passionate C# and .NET developer with a love for creating effici
 - 👯 I’m looking to collaborate on open-source projects and exciting development challenges.
 - 💬 Ask me about anything related to C#, .NET, software architecture, and coding best practices.
 - 📫 How to reach me: ibikemi2001@gmail.com
-- ⚡ Fun fact: I love to cook and trying out new recipes. 
+- ⚡ Fun fact: I love to cook and try out new recipes. 
 
 ## Projects and Contributions
 
